@@ -54,6 +54,7 @@ On Windows PowerShell:
 ``` powershell
 ping raspberrypi.local
 ```
+<img width="1308" height="446" alt="Image" src="https://github.com/user-attachments/assets/bd8fd7c2-f205-481b-9fbc-5b0e3ccae5ba" />
 
 If it replies → the Pi is alive.
 
@@ -154,7 +155,6 @@ Always use commands, never unplug directly:
 sudo reboot        # restart
 sudo shutdown now  # power off
 ```
-<img width="1308" height="446" alt="Image" src="https://github.com/user-attachments/assets/bd8fd7c2-f205-481b-9fbc-5b0e3ccae5ba" />
 <img width="700" height="475" alt="Image" src="https://github.com/user-attachments/assets/1c3f652b-e696-4859-9457-340927ed040a" />
 <img width="589" height="416" alt="Image" src="https://github.com/user-attachments/assets/a47dbab7-0858-4dbe-b9d3-07b61257435e" />
 <img width="934" height="538" alt="Image" src="https://github.com/user-attachments/assets/a8ec262a-076c-440a-834a-8b44aa8027bb" />
