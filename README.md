@@ -47,6 +47,8 @@ kernel using only a laptop and Ethernet connection.
 2.  Connect Pi to your laptop using an **Ethernet cable**.\
 3.  Power the Pi with its USB adapter.\
 4.  Your laptop shares internet with the Pi through Ethernet.
+5.  go to network connections -> wifi -> right click -> sharing tab -> Allow other network users to connect… enable it.
+   this will allow your pi to access and connect to your laptop using the network... 
 
 ------------------------------------------------------------------------
 
