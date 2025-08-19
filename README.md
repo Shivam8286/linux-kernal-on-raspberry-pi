@@ -35,8 +35,9 @@ kernel using only a laptop and Ethernet connection.
         -   (Optional) configure Wi-Fi if you want wireless.\
     -   Click **Write**.\
 4.  Safely eject the SD card and insert it into the Raspberry Pi.
+5.  click "ctrl +shift +x" to open these advance settings to configure and also enable ssh in services.
    <img width="700" height="475" alt="Image" src="https://github.com/user-attachments/assets/1c3f652b-e696-4859-9457-340927ed040a" />
-<img width="589" height="416" alt="Image" src="https://github.com/user-attachments/assets/a47dbab7-0858-4dbe-b9d3-07b61257435e" />
+   <img width="589" height="416" alt="Image" src="https://github.com/user-attachments/assets/a47dbab7-0858-4dbe-b9d3-07b61257435e" />
 
 ------------------------------------------------------------------------
 
