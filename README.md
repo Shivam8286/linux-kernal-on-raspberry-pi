@@ -86,6 +86,7 @@ If `.local` doesn't resolve, use the IP directly:
 ``` powershell
 ssh shiva@192.168.x.x
 ```
+<img width="934" height="538" alt="Image" src="https://github.com/user-attachments/assets/a8ec262a-076c-440a-834a-8b44aa8027bb" />
 
 👉 First time, you'll get a warning about authenticity. Type `yes` to
 continue.\
@@ -161,7 +162,6 @@ sudo reboot        # restart
 sudo shutdown now  # power off
 ```
 
-<img width="934" height="538" alt="Image" src="https://github.com/user-attachments/assets/a8ec262a-076c-440a-834a-8b44aa8027bb" />
 <img width="944" height="656" alt="Image" src="https://github.com/user-attachments/assets/40a4eaba-a07c-4b14-84ad-64621afd6053" />
 
 ------------------------------------------------------------------------
