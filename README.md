@@ -168,3 +168,5 @@ sudo shutdown now  # power off
 
 👉 This README can serve as your **step-by-step reference** and as a
 **presentation document** for introducing Raspberry Pi to friends.
+share and learn togethar
+
