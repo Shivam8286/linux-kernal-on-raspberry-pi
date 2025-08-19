@@ -15,6 +15,7 @@ kernel using only a laptop and Ethernet connection.
 -   Ethernet cable (to connect Pi directly to laptop)\
 -   USB power supply for Pi\
 -   (Optional) Wi-Fi network for later use
+-   ![Image](https://github.com/user-attachments/assets/4236cc08-2239-4886-a2e8-cfdfeaed2c93)
 
 ------------------------------------------------------------------------
 
