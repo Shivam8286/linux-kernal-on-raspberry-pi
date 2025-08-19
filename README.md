@@ -10,6 +10,8 @@ kernel using only a laptop and Ethernet connection.
 ## 📦 Materials Required
 
 -   Raspberry Pi 3B board\
+-   <img width="2111" height="1526" alt="image" src="https://github.com/user-attachments/assets/6a34e0f1-31ba-4e37-9a68-c39ed744ba4d" />
+
 -   MicroSD card (16GB or more recommended)\
 -   Laptop/PC (Windows used here)\
 -   Ethernet cable (to connect Pi directly to laptop)\
