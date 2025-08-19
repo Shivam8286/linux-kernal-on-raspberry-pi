@@ -130,6 +130,7 @@ pwd           # show current directory
 free -h       # memory usage
 df -h         # disk usage
 ```
+<img width="944" height="656" alt="Image" src="https://github.com/user-attachments/assets/40a4eaba-a07c-4b14-84ad-64621afd6053" />
 
 ------------------------------------------------------------------------
 
@@ -162,7 +163,6 @@ sudo reboot        # restart
 sudo shutdown now  # power off
 ```
 
-<img width="944" height="656" alt="Image" src="https://github.com/user-attachments/assets/40a4eaba-a07c-4b14-84ad-64621afd6053" />
 
 ------------------------------------------------------------------------
 
